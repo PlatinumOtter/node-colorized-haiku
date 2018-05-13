@@ -1,5 +1,5 @@
 {
-  "name": "week-1-node",
+  "name": "@maryville-swdv-660-djackson/colorized-haiku",
   "version": "0.0.1",
   "description": "Full node project",
   "main": "index.js",
