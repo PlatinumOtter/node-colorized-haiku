@@ -6,6 +6,14 @@
   "scripts": {
     "test": "node index.js"
   },
+  "keywords": [
+    "haiku",
+    "color"
+  ],
   "author": "Daniel Jackson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "haiku-random": "^1.0.0"
+  }
 }
